@@ -30,7 +30,7 @@ User flow:
 # :computer: Deploy the sample web application 
 This sample is based on [Azure AD B2C: ASP.NET Core Web App and Azure AD B2C](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/blob/master/1-WebApp-OIDC/1-5-B2C/README.md). Modifications were made to add `domain_hint` as query parameter.  Two URLs were added to the homepage to allow users to sign in using the same email address but against different identity providers.
 
-To deploy the application follow the instructions in [the sample](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/blob/master/README.md#how-to-run-this-sample)
+To deploy the application follow the instructions in [the sample](https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2/blob/master/README.md#how-to-run-this-sample).
 
 
 
